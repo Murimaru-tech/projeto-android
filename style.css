@@ -22,7 +22,8 @@
 }
 
 *{
-
+ max-width: 1000px;
+ min-width: 300px;
 
 }
 body {
