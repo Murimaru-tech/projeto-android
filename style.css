@@ -22,8 +22,7 @@
 }
 
 *{
- max-width: 1000px;
- min-width: 300px;
+
 
 }
 body {
@@ -130,6 +129,8 @@ main > article > h2 {
 img {
     display: block;
     margin: auto;
+    max-width: 1000px;
+    min-width: 300px;
 }
 
 a {
