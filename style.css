@@ -78,8 +78,8 @@ header > p {
 main {
     background-color: white;
     max-width: 800px;
-    min-width: 400px;
-    margin: 0px auto;
+    min-width: 300px;
+    margin: auto;
     padding: 10px;
     box-shadow: 0px 6px 10px black;
     border-radius: 1px 1px 11px 11px;
@@ -130,11 +130,6 @@ img {
     display: block;
     margin: auto;
 }
-source {
-    width: auto;
- }
-
-
 
 a {
     text-decoration: none;
